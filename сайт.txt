@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>DORRIAN</title>
+</head>
+
+<body bgcolor="#F5F0F0">
+<h2 align="center">заголовок(тест текста)</h2>
+<p align="center">цвет фона #F5F0F0</p>
+<marquee direction="left"2e2e2e>тест анимации</marquee>
+<p><input type="button" value=" Нажми меня нежно "></p>
+<p><img src="1000000.png" alt"html"</p>
+</body>
+
+</html>
